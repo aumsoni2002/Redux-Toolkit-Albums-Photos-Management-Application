@@ -72,7 +72,15 @@ Built with a focus on clean architecture, efficient state management, and modern
 
 ## 📂 Project Structure
 
-src/ ├── apis/ # RTK Query API definitions ├── components/ # UI components like UsersList ├── slices/ # Redux slices for state management ├── store/ # Redux store configuration ├── thunks/ # Async Thunks for user-related operations ├── App.js # Main App component ├── index.js # Entry point └── index.css # Tailwind CSS integration
+src/
+├── apis/ # RTK Query API definitions
+├── components/ # UI components like UsersList
+├── slices/ # Redux slices for state management
+├── store/ # Redux store configuration
+├── thunks/ # Async Thunks for user-related operations
+├── App.js # Main App component
+├── index.js # Entry point
+└── index.css # Tailwind CSS integration
 
 ---
 
