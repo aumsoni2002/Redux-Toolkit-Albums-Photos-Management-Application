@@ -33,11 +33,6 @@ Built with a focus on clean architecture, efficient state management, and modern
 - Advanced usage of **Redux Toolkit** for managing application state.
 - Integration of **Async Thunks** for side effects like API requests.
 - **RTK Query** for efficient data fetching, caching, and auto-updating.
-
-### **Developer-Friendly Utilities**
-
-- Mock delays for API requests to simulate real-world scenarios.
-- Code splitting and middleware integration for scalability.
 - Comprehensive error handling and loading indicators.
 
 ---
@@ -63,15 +58,10 @@ Built with a focus on clean architecture, efficient state management, and modern
 - **Axios**: For API calls.
 - **@faker-js/faker**: For generating dynamic mock data.
 
-### **Development Utilities**
-
-- **Redux DevTools**: For debugging and state visualization.
-- **React Testing Utilities**: Prepared for testing components and state logic.
-
 ---
 
 ## 📂 Project Structure
-
+```plaintext
 src/
 ├── apis/ # RTK Query API definitions
 ├── components/ # UI components like UsersList
@@ -81,6 +71,7 @@ src/
 ├── App.js # Main App component
 ├── index.js # Entry point
 └── index.css # Tailwind CSS integration
+```
 
 ---
 
