@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "26e2",
+      "name": "Pat Tillman"
+    }
+  ],
+  "albums": [
+    {
+      "id": "fd66",
+      "userId": "26e2",
+      "title": "Generic Concrete Mouse"
+    },
+    {
+      "id": "3ae9",
+      "userId": "26e2",
+      "title": "Small Plastic Pizza"
+    }
+  ],
+  "photos": []
+}
